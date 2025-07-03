@@ -1,1 +1,1 @@
-SELECT 1 AS test_col;
+SELECT 1 AS test_col

@@ -1,0 +1,6 @@
+name: dbt_example
+version: '1.0'
+profile: default
+models:
+  dbt_example:
+    +materialized: view
